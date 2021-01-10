@@ -3,7 +3,7 @@
 ## I'm a University Student and Freelancer!!
 
 - 🌱 I’m currently learning JavaScript and React
-- 👯 I’m looking for a Internship
+- 👯 I’m looking for an Internship
 - 🥅 2021 Goals: Focus more on Web Development
 - ⚡ Fun fact: I love to play Video Games
 
@@ -13,7 +13,6 @@
 [<img align="left" alt="Dhanurjan | YouTube" width="22px" src="https://img.icons8.com/fluent/48/000000/youtube-play.png" />][youtube]
 [<img align="left" alt="Dhanurjan | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />][twitter]
 [<img align="left" alt="Dhanurjan | LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="Dhanurjan | Instagram" width="22px" src="https://img.icons8.com/cute-clipart/50/000000/instagram-new.png" />][instagram]
 
 <br />
 
@@ -47,5 +46,4 @@
 [website]: https://github.com/Dhanurjan
 [twitter]: https://twitter.com/Dhanurjan98
 [youtube]: https://www.youtube.com/channel/UCIx4fSKWLhzf6X1VrJei_nA
-[instagram]: https://www.instagram.com/dhanurjan
 [linkedin]: https://www.linkedin.com/in/dhanurjan
