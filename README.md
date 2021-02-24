@@ -1,6 +1,6 @@
 ### Hi there, I'm Dhanurjan 👋
 
-## I'm a University Student and Freelancer!!
+## I'm a University Student!!
 
 - 🌱 I’m currently learning JavaScript and React
 - 👯 I’m looking for an Internship
