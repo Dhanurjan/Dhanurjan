@@ -2,9 +2,9 @@
 
 ## I'm a University Student!!
 
-- 🌱 I’m currently learning JavaScript and React
+- 🌱 I’m currently learning Cloud Computing
 - 👯 I’m looking for an Internship
-- 🥅 2021 Goals: Focus more on Web Development
+- 🥅 2022 Goals: Get a job
 - ⚡ Fun fact: I love to play Video Games
 
 ### Connect with me:
@@ -43,7 +43,7 @@
 
 </details>
 
-[website]: https://github.com/Dhanurjan
+[website]: https://dhanurjan.ga/
 [twitter]: https://twitter.com/Dhanurjan98
 [youtube]: https://www.youtube.com/channel/UCIx4fSKWLhzf6X1VrJei_nA
 [linkedin]: https://www.linkedin.com/in/dhanurjan
