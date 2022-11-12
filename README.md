@@ -3,9 +3,9 @@
 ## I'm a University Student!!
 
 - 🌱 I’m currently learning Cloud Computing
-- 👯 I’m looking for an Internship
-- 🥅 2022 Goals: Get a job
-- ⚡ Fun fact: I love to play Video Games
+- 👯 I’m looking for a job
+- 🥅 2022 Goals: Get a job and increase my skills
+- ⚡ Fun fact: I love to play multiplayer Games
 
 ### Connect with me:
 
