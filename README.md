@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Cloud Computing
 - 👯 I’m looking for a job
-- 🥅 2022 Goals: Get a job and increase my skills
+- 🥅 2022 Goals: Get a job and improve my skills
 - ⚡ Fun fact: I love to play multiplayer Games
 
 ### Connect with me:
