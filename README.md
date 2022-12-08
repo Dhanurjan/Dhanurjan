@@ -1,6 +1,6 @@
 ### Hi there, I'm Dhanurjan 👋
 
-## I'm a University Student!!
+## I'm a Graduate!!
 
 - 🌱 I’m currently learning Cloud Computing
 - 👯 I’m looking for a job
