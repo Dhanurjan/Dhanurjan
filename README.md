@@ -8,7 +8,6 @@
 ### Connect with me:
 
 [<img align="left" alt="Dhanurjan" width="22px" src="https://img.icons8.com/cotton/64/000000/domain.png" />][website]
-[<img align="left" alt="Dhanurjan | YouTube" width="22px" src="https://img.icons8.com/fluent/48/000000/youtube-play.png" />][youtube]
 [<img align="left" alt="Dhanurjan | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />][twitter]
 [<img align="left" alt="Dhanurjan | LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
 
